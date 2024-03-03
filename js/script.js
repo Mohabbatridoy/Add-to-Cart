@@ -20,7 +20,7 @@ function AddToCart(e){
 
         let link = document.createElement('a');
         link.setAttribute('href','#');
-        link.innerHTML = '      X';
+        link.innerHTML = 'X';
         // console.log(link)
 
         li.appendChild(link);
